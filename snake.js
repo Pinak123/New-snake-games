@@ -124,6 +124,7 @@ function pray(){
     p2=Math.floor(Math.random()*425);
     document.getElementById('box2').style.left=p1+'px';
     document.getElementById('box2').style.top =p2+'px';
+   console.log('its t working')
 }
 var p1x=p1-25;
 var p2x=p2-25;
