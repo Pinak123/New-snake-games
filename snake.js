@@ -129,7 +129,7 @@ var p1x=p1-25;
 var p2x=p2-25;
 var p1y=p1+25;
 var p2y=p2+25;
-setInterval(pray,1);
+//setInterval(pray,1);
 //var set=setTimeout(pray,1);
 
 /*while (posx > p1x && posy> p2x && posx < p1y && posy< p2y) {
